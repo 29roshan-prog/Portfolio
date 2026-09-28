@@ -846,7 +846,7 @@ const projectList: Project[] = [
   {
     slug: 'skyup',
     name: 'Skyup Digital Solutions — Founder',
-    tagline: 'Running an AI automation agency: client strategy, delivery and the in-house tools behind it.',
+    tagline: 'AI/ML Developer and team lead: client projects, internal AI tools and end-to-end delivery.',
     category: 'Professional work / Founder',
     filters: ['enterprise', 'voice', 'fullstack'],
     context: 'professional',
@@ -855,18 +855,18 @@ const projectList: Project[] = [
     featured: false,
     order: 11,
     summary:
-      'I founded and run Skyup Digital Solutions LLP. I handle clients directly, advise them on where AI fits in their business, and build the software myself.',
+      'AI/ML Developer and Team Lead at Skyup Digital Solutions LLP. I lead AI development, work with clients directly and build and ship the software myself.',
     problem: 'Small and mid-sized businesses want AI and automation, but need someone who understands both the business and the build.',
     contribution: 'Client strategy, AI consulting and hands-on development, from first call to deployment.',
     overview: [
       'Skyup is a Bengaluru-based digital marketing and AI automation agency offering SEO, PPC, social media, web development, CRM software and AI automation.',
-      'As founder, I work with clients directly: understanding the business, recommending how AI and automation should be used, and then building and deploying it.',
+      'As AI/ML Developer and Team Lead, I work with clients directly: understanding their business, recommending where AI and automation fit, and then building and deploying it.',
       'Rocky, the Skyup website, Saanvi and several client systems on this page have their own case studies.',
     ],
     problemContext: ['Agency work spans many industries, each with its own workflows, data and constraints.'],
     objectives: ['Give clients a clear AI strategy tied to real business outcomes.', 'Build the systems that deliver it.', 'Run the agency itself on internal tools rather than manual work.'],
     role: [
-      'Handle client relationships and business strategy, including where and how to use AI.',
+      'Lead AI development and work with clients directly, translating business problems into software.',
       'Design, build and deploy client systems end to end.',
       'Built the agency\'s internal tools: Rocky, automated ad reporting, CRM lead nurturing, an SEO and GEO tracker, a project tracker and a reminders bot.',
     ],
@@ -876,7 +876,7 @@ const projectList: Project[] = [
     ],
     flows: [],
     features: [
-      { title: 'AI strategy for clients', body: 'Recommending where AI and automation should, and shouldn\'t, be used in a client\'s business.' },
+      { title: 'AI consulting for clients', body: 'Advising on where AI and automation should, and shouldn\'t, be used in a client\'s business.' },
       { title: 'Automated ad reporting', body: 'Meta Ads data stored in Supabase, with GPT-4o-mini insights and daily and weekly PDF reports and alerts.' },
       { title: 'CRM lead nurturing', body: 'Five WhatsApp nurture tracks triggered by lead status, sent only within business hours.' },
       { title: 'SEO & GEO tracker', body: 'Search Console and AI-search visibility tracking for clients.' },
@@ -895,7 +895,7 @@ const projectList: Project[] = [
     ],
     results: [
       'Agency reporting, lead follow-up and daily updates run on in-house tools rather than manual work.',
-      'Clients get strategy and delivery from the same person, with no hand-off between the two.',
+      'Clients get technical advice and hands-on delivery from the same person, with no hand-off between the two.',
     ],
     links: { other: [{ label: 'skyupdigitalsolutions.com', url: 'https://skyupdigitalsolutions.com' }] },
     pending: [],

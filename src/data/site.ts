@@ -31,10 +31,10 @@ export const education = [
 export const experience: { org: string; title: string | null; period: string | null; summary: string }[] = [
   {
     org: 'Skyup Digital Solutions LLP',
-    title: 'Founder',
+    title: 'AI/ML Developer & Team Lead',
     period: null,
     summary:
-      'Run a Bengaluru digital marketing and AI automation agency. Handle clients directly, advise them on AI strategy, and build and deploy the software myself.',
+      'AI/ML Developer and Team Lead at a Bengaluru digital marketing and AI automation agency. Lead AI development, work with clients directly, and build and deploy software end to end.',
   },
   {
     org: 'Aixplora Technologies Pvt. Ltd.',
