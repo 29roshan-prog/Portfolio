@@ -1,0 +1,21 @@
+/** Mirrors the resume. */
+export const skillGroups: { title: string; blurb: string; items: string[] }[] = [
+  { title: 'Languages', blurb: 'What I write day to day',
+    items: ['Python', 'JavaScript', 'TypeScript', 'Kotlin', 'SQL', 'C'] },
+  { title: 'AI & Machine Learning', blurb: 'From classical ML to generative AI',
+    items: ['Generative AI', 'LLM integration', 'Prompt engineering', 'Vision-language models', 'OCR', 'scikit-learn', 'Model training & deployment'] },
+  { title: 'LLM frameworks & models', blurb: 'Orchestration, models and vector search',
+    items: ['LangChain', 'LangGraph', 'OpenAI', 'Gemini', 'Whisper', 'Hugging Face', 'Pinecone'] },
+  { title: 'Voice AI', blurb: 'Real-time speech over telephony',
+    items: ['Sarvam AI', 'Deepgram', 'ElevenLabs', 'Gemini Live', 'WebSockets', 'Telephony APIs'] },
+  { title: 'Backend & APIs', blurb: 'Services that connect models to products',
+    items: ['Node.js', 'Express', 'FastAPI', 'REST APIs', 'Meta Marketing API', 'WhatsApp Business API', 'MSG91', 'Razorpay', 'Cloudinary'] },
+  { title: 'Frontend & mobile', blurb: 'Interfaces people actually use',
+    items: ['React', 'Vite', 'Vike (SSR)', 'Tailwind CSS', 'Three.js', 'GSAP', 'Kotlin', 'CameraX'] },
+  { title: 'Data & databases', blurb: 'Storage, analysis and dashboards',
+    items: ['MongoDB Atlas', 'PostgreSQL', 'Supabase', 'Pandas', 'NumPy', 'Matplotlib', 'Chart.js', 'Streamlit'] },
+  { title: 'Cloud & DevOps', blurb: 'Getting it live and keeping it up',
+    items: ['AWS EC2', 'AWS S3', 'Docker', 'Nginx', 'PM2', 'Railway', 'Netlify', 'Git'] },
+  { title: 'IoT & Networking', blurb: 'Hardware and network research',
+    items: ['ESP32', 'Mininet', 'Ryu SDN controller'] },
+]
